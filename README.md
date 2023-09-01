@@ -20,7 +20,7 @@ Throughout this project, we encountered several challenges, including data quali
 
 ## Results and Discussion
 Our model yielded impressive results, achieving an accuracy of over 85% on the test dataset. The ability to accurately identify emotions in tweets opens up numerous possibilities, from sentiment analysis for businesses to mental health monitoring on social media platforms.
-(TrainingHistory.png)
+![Training Curves ](TrainingHistory.png)
 
 ## Conclusion
 In conclusion, our deep learning approach to emotion recognition in tweets showcases the potential of AI in understanding human emotions through digital text. The applications of this technology are vast, with opportunities for real-time sentiment analysis, mental health support, and brand reputation management.
